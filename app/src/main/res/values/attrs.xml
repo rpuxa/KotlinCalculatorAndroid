@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DragButton">
+        <attr name="main_image" format="reference">
+        </attr>
+        <attr name="north_west_image" format="reference">
+        </attr>
+        <attr name="north_east_image" format="reference">
+        </attr>
+        <attr name="south_east_image" format="reference">
+        </attr>
+        <attr name="south_west_image" format="reference">
+        </attr>
+    </declare-styleable>
+</resources>

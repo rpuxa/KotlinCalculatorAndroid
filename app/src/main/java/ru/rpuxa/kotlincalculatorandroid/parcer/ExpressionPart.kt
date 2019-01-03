@@ -1,0 +1,3 @@
+package ru.rpuxa.kotlincalculatorandroid.parcer
+
+interface ExpressionPart
